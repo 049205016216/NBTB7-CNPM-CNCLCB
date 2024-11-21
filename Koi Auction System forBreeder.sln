@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Koi Auction System forBreeder.Repositories", "Koi Auction System forBreeder.Repositories\Koi Auction System forBreeder.Repositories.csproj", "{273ED7FD-5E0A-41B5-AAA2-56315570E77B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Koi Auction System forBreeder.Services", "Koi Auction System forBreeder.Services\Koi Auction System forBreeder.Services.csproj", "{7E5C48A7-FE54-40E0-99D6-3206C05A1A9C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Koi Auction System forBreeder.WebApplication", "C:\Users\admin\source visual\repos\Koi Auction System forBreeder.WebApplication\Koi Auction System forBreeder.WebApplication.csproj", "{6EC7CBE7-4B84-42B6-A005-C3726B146A67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{273ED7FD-5E0A-41B5-AAA2-56315570E77B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{273ED7FD-5E0A-41B5-AAA2-56315570E77B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{273ED7FD-5E0A-41B5-AAA2-56315570E77B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{273ED7FD-5E0A-41B5-AAA2-56315570E77B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E5C48A7-FE54-40E0-99D6-3206C05A1A9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E5C48A7-FE54-40E0-99D6-3206C05A1A9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E5C48A7-FE54-40E0-99D6-3206C05A1A9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E5C48A7-FE54-40E0-99D6-3206C05A1A9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EC7CBE7-4B84-42B6-A005-C3726B146A67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EC7CBE7-4B84-42B6-A005-C3726B146A67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EC7CBE7-4B84-42B6-A005-C3726B146A67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EC7CBE7-4B84-42B6-A005-C3726B146A67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA3B3CAD-2369-4E36-8B18-7766CD087E4F}
+	EndGlobalSection
+EndGlobal
